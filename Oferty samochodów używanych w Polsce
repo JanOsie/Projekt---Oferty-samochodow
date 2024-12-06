@@ -1,0 +1,19 @@
+Oferty samochodów używanych w Polsce
+90tys danych o ofertach samochodów używanych w Polsce.
+
+O zbiorze danych
+Zbiór danych pozyskany z największego polskiego serwisu z ofertami samochodów używanych i nowych otomoto.pl.
+•	marka: Marka lub producent samochodu, np. Volkswagen, Toyota, BMW, Ford itp.
+•	model: Model samochodu
+•	cena_w_pln: Podana cena samochodu w polskich złotych (PLN), zapewniająca wgląd w trendy cenowe samochodów używanych w Polsce.
+•	przebieg: Zarejestrowany przebieg samochodu, reprezentujący całkowity dystans przejechany przez pojazd w kilometrach (km).
+•	skrzynia biegów: Typ skrzyni biegów używanej w samochodzie, oznaczony jako manualna lub automatyczna.
+•	engine_capacity: Pojemność silnika lub pojemność skokowa samochodu, mierzona w centymetrach sześciennych (cm3), wskazująca rozmiar silnika.
+•	fuel_type: Rodzaj paliwa używanego przez samochód, w tym opcje takie jak benzyna, olej napędowy, napęd hybrydowy, elektryczny itp.
+•	city: Miasto, w którym samochód jest zlokalizowany lub reklamowany na sprzedaż, oferując wgląd w regionalne różnice w dostępności używanych samochodów.
+•	województwo: Region administracyjny lub województwo, w którym znajduje się miasto, zapewniające bardziej szczegółowe odniesienie do lokalizacji.
+•	rok: Rok produkcji samochodu, reprezentujący jego wiek i umożliwiający czasową analizę rynku samochodów używanych.
+
+Analizując ten zbiór danych, naukowcy mogą badać różne aspekty polskiego rynku samochodów używanych, takie jak rozkład cen według marki i modelu, 
+związek między przebiegiem a ceną, popularne rodzaje paliwa i ich dostępność w różnych regionach oraz wpływ wieku samochodu na ceny. 
+Dodatkowo, ten zbiór danych może ułatwić opracowanie modeli predykcyjnych do szacowania wartości używanych samochodów na podstawie ich specyfikacji i historycznych trendów rynkowych.
